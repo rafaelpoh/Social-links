@@ -1,0 +1,7 @@
+:root {
+    --borda: whitesmoke;
+    --fundocontainer: skyblue;
+    --fundo: linear-gradient(to right, rgba(2,0,36,1) 0%, rgb(24, 24, 235) 0%, rgb(0, 140, 255) 100%);
+    --botao: linear-gradient(to right, rgba(2,0,36,1) 0%, rgb(0, 217, 255) 0%, rgb(1, 94, 255) 100%);
+    --texto: rgb(38, 74, 172);
+}
